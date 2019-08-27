@@ -9,6 +9,12 @@ This is the first workshop in a series of workshops dedicated to teaching studen
 3. Run `jupyter notebook` and navigate to where you cloned the workshop repository
 4. Open the notebook and enjoy!
 
+# Learn Git Branching
+
+This website is a wonderful tutorial for learning the basics (and not so basics) of git!
+
+https://learngitbranching.js.org/?locale=en_US
+
 # Feedback
 
 Want to leave us feedback so we can improve our future workshops? Click the link below!
