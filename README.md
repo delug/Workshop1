@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/delug/Workshop1/master)
+
 # Introduction to Python, Git, and Data Science
 
 This is the first workshop in a series of workshops dedicated to teaching students the basics of Python, Git, and Data Science tools. 
