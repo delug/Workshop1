@@ -21,7 +21,7 @@ https://learngitbranching.js.org/?locale=en_US
 
 Want to leave us feedback so we can improve our future workshops? Click the link below!
 
-https://tinyurl.com/y39b87uy
+https://forms.gle/eyDdcqRkhbUDuVF37
 
 # Workshop Series
 
