@@ -1,6 +1,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/delug/Workshop1/master)
 
-#Delug
+# Delug
 Find us at our website here: https://delug.github.io/
 
 # Introduction to Python, Git, and Data Science
